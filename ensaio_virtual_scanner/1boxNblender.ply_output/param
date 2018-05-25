@@ -1,0 +1,1 @@
+pcl_virtual_scanner -object_coordinates 0 -single_view 1 -view_point 0.5,0.5,0.5 -target_point 0,0,0 -organized 0 boxNblender.ply

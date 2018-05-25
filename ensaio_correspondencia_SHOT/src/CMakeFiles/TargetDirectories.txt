@@ -1,0 +1,3 @@
+/home/slam/pointcloud/BinPicking/ensaio_correspondencia_SHOT/src/CMakeFiles/correspondencia_multivista_SHOT.dir
+/home/slam/pointcloud/BinPicking/ensaio_correspondencia_SHOT/src/CMakeFiles/correspondencia_SHOT.dir
+/home/slam/pointcloud/BinPicking/ensaio_correspondencia_SHOT/src/CMakeFiles/allclean.dir

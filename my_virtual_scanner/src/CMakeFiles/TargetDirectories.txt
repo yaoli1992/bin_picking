@@ -1,0 +1,2 @@
+/home/rodrigosalgueiro/Dissertacao/gitEnsaioCorresp/BinPicking/my_virtual_scanner/src/CMakeFiles/allclean.dir
+/home/rodrigosalgueiro/Dissertacao/gitEnsaioCorresp/BinPicking/my_virtual_scanner/src/CMakeFiles/virtual_scanner.dir

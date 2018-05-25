@@ -1,0 +1,13 @@
+A programação foi baseada no tutorial "3D Object Recognition based on Correspoendence Grouping";
+
+Sendo o seu funcionamento iniciado pelo executável "correspondence_grouping model.pcd scene.pcd";
+
+O ficheiros anexos são respectivamente:
+
+		-model nuvens sintécticas "box3.pcd" "box5.pcd";
+		-model covert mesh2pcd "pclbox3.pcd";
+		-model digitalizado kinect "modelfiltered.pcd";
+
+		-model virtual_scanner "sample_perp.pcd";
+		
+		-scene Kinect "boxandother.pcd" "scene_box1.pcd" "scene_box2.pcd";  

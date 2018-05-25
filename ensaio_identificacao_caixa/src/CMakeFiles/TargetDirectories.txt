@@ -1,0 +1,2 @@
+/home/rodrigosalgueiro/Dissertacao/gitEnsaioCorresp/BinPicking/ensaio_identificacao_caixa/src/CMakeFiles/allclean.dir
+/home/rodrigosalgueiro/Dissertacao/gitEnsaioCorresp/BinPicking/ensaio_identificacao_caixa/src/CMakeFiles/segmentation.dir

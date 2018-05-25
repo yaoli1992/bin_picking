@@ -1,0 +1,4 @@
+/home/slam/pointcloud/BinPicking/ensaio_correspondencia_3DSC/src/build/CMakeFiles/rebuild_cache.dir
+/home/slam/pointcloud/BinPicking/ensaio_correspondencia_3DSC/src/build/CMakeFiles/edit_cache.dir
+/home/slam/pointcloud/BinPicking/ensaio_correspondencia_3DSC/src/build/CMakeFiles/correspondence_grouping.dir
+/home/slam/pointcloud/BinPicking/ensaio_correspondencia_3DSC/src/build/CMakeFiles/modelviewpoint.dir
